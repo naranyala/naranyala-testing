@@ -1,12 +1,25 @@
 ### Hi there 👋
 
+[https://invent.kde.org/explore/groups?sort=name_asc](https://invent.kde.org/explore/groups?sort=name_asc)
+
+[https://gitlab.gnome.org/explore/groups/active](https://gitlab.gnome.org/explore/groups/active)
+
+[https://github.com/stars/naranyala](https://github.com/stars/naranyala)
+
+---
+
+<!--
+
 ![GitHub stats](./profile/stats-dark.svg#gh-dark-mode-only)![GitHub stats](./profile/stats-light.svg#gh-light-mode-only)
 
 ![Top Languages](./profile/top-langs-dark.svg#gh-dark-mode-only)![Top Languages](./profile/top-langs-light.svg#gh-light-mode-only)
 
 ![GitHub Streak](./profile/streak-dark.svg#gh-dark-mode-only)![GitHub Streak](./profile/streak-light.svg#gh-light-mode-only)
 
-## 🛠 My Repositories
+-->
+
+### generated list of my-repo
+
 <!-- REPOS_LIST_START -->
 <details>
 <summary>Click to see my repositories 🚀</summary>
@@ -120,16 +133,10 @@
 
 
 
+---
+
+The best way to contact me is to use my email address 
+
+[http://mailto:fudzer.mh@gmail.com](http://mailto:fudzer.mh@gmail.com)
 
 
-
-
-
-
-
-
-
-
-
-
-The best way to contact me is to use my email address.
