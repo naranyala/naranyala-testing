@@ -138,6 +138,6 @@
 
 The best way to contact me is to use my email address 
 
-[http://mailto:fudzer.mh@gmail.com](http://mailto:fudzer.mh@gmail.com)
+[https://mailto:fudzer.mh@gmail.com](http://mailto:fudzer.mh@gmail.com)
 
 
