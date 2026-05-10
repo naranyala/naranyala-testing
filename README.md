@@ -8,6 +8,8 @@
 
 ### fav gnome ext
 
+[https://gitlab.gnome.org/GNOME/gnome-shell-extensions](https://gitlab.gnome.org/GNOME/gnome-shell-extensions)
+
 [https://github.com/home-sweet-gnome/dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel)
 
 [https://github.com/prateekmedia/netspeedsimplified](https://github.com/prateekmedia/netspeedsimplified)
