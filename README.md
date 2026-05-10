@@ -10,7 +10,7 @@
 
 [https://github.com/home-sweet-gnome/dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel)
 
-[https://github.com/noroadsleft000/gnome-network-stats](https://github.com/noroadsleft000/gnome-network-stats)
+[https://github.com/prateekmedia/netspeedsimplified](https://github.com/prateekmedia/netspeedsimplified)
 
 ---
 
