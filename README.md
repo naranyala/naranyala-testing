@@ -1,10 +1,16 @@
-### Hi there 👋
+### main inspiration
 
 [https://invent.kde.org/explore/groups?sort=name_asc](https://invent.kde.org/explore/groups?sort=name_asc)
 
 [https://gitlab.gnome.org/explore/groups/active](https://gitlab.gnome.org/explore/groups/active)
 
 [https://github.com/stars/naranyala](https://github.com/stars/naranyala)
+
+### fav gnome ext
+
+[https://github.com/home-sweet-gnome/dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel)
+
+[https://github.com/noroadsleft000/gnome-network-stats](https://github.com/noroadsleft000/gnome-network-stats)
 
 ---
 
