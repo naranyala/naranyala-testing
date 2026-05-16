@@ -1,3 +1,6 @@
+
+![motto](./images/motto.png)
+
 ### main inspiration
 
 [https://invent.kde.org/explore/groups?sort=name_asc](https://invent.kde.org/explore/groups?sort=name_asc)
@@ -156,7 +159,7 @@
 
 ---
 
-The best way to contact me is to use my email address 
+The best way to contact me is to use my email address
 
 [https://mailto:fudzer.mh@gmail.com](http://mailto:fudzer.mh@gmail.com)
 
